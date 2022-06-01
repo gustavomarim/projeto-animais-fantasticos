@@ -1,6 +1,6 @@
 import { initAccordion } from "./modules/accordion.js";
-import { initAnimaNumeros } from "./modules/anima-numeros.js";
 import { initDropDownMenu } from "./modules/dropdown-menu.js";
+import { initFetchAnimais } from "./modules/fetch-animais.js";
 import { initFuncionamento } from "./modules/funcionamento.js";
 import { initMenuMobile } from "./modules/menu-mobile.js";
 import { initModal } from "./modules/modal.js";
@@ -17,5 +17,5 @@ initModal();
 initToolTip();
 initDropDownMenu();
 initMenuMobile();
-initAnimaNumeros();
 initFuncionamento();
+initFetchAnimais();
