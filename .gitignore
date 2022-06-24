@@ -1,5 +1,9 @@
 .DS_STORE
 
+# ignore all archieves JSON extension
+*.json
+.main.js.LICENSE.txt
+
 /dist/
 /bazel-out
 /integration/bazel/bazel-*
